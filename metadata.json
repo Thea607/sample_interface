@@ -1,0 +1,6 @@
+{
+  "name": "TradingView 市场总览",
+  "description": "全球金融市场行情、指数、中国与世界股票、加密货币、期货外汇以及财经日历综合看板与交互图表",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
